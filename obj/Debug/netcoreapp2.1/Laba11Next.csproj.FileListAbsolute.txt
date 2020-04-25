@@ -1,0 +1,14 @@
+C:\Users\Роман\source\repos\Laba11Next\Laba11Next\bin\Debug\netcoreapp2.1\Laba11Next.deps.json
+C:\Users\Роман\source\repos\Laba11Next\Laba11Next\bin\Debug\netcoreapp2.1\Laba11Next.runtimeconfig.json
+C:\Users\Роман\source\repos\Laba11Next\Laba11Next\bin\Debug\netcoreapp2.1\Laba11Next.runtimeconfig.dev.json
+C:\Users\Роман\source\repos\Laba11Next\Laba11Next\bin\Debug\netcoreapp2.1\Laba11Next.dll
+C:\Users\Роман\source\repos\Laba11Next\Laba11Next\bin\Debug\netcoreapp2.1\Laba11Next.pdb
+C:\Users\Роман\source\repos\Laba11Next\Laba11Next\bin\Debug\netcoreapp2.1\Lab10Library.dll
+C:\Users\Роман\source\repos\Laba11Next\Laba11Next\bin\Debug\netcoreapp2.1\Lab10Library.pdb
+C:\Users\Роман\source\repos\Laba11Next\Laba11Next\obj\Debug\netcoreapp2.1\Laba11Next.csprojAssemblyReference.cache
+C:\Users\Роман\source\repos\Laba11Next\Laba11Next\obj\Debug\netcoreapp2.1\Laba11Next.csproj.CoreCompileInputs.cache
+C:\Users\Роман\source\repos\Laba11Next\Laba11Next\obj\Debug\netcoreapp2.1\Laba11Next.AssemblyInfoInputs.cache
+C:\Users\Роман\source\repos\Laba11Next\Laba11Next\obj\Debug\netcoreapp2.1\Laba11Next.AssemblyInfo.cs
+C:\Users\Роман\source\repos\Laba11Next\Laba11Next\obj\Debug\netcoreapp2.1\Laba11Next.csproj.CopyComplete
+C:\Users\Роман\source\repos\Laba11Next\Laba11Next\obj\Debug\netcoreapp2.1\Laba11Next.dll
+C:\Users\Роман\source\repos\Laba11Next\Laba11Next\obj\Debug\netcoreapp2.1\Laba11Next.pdb
